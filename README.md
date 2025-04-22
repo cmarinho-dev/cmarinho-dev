@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Carlos Marinho
 
-<!--
-**cmarinho-dev/cmarinho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento de soluções criativas.
 
-Here are some ideas to get you started:
+💻 Estou focado em aprender **Python**, mas também já explorei outras áreas por conta própria, como:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento Android com Java e Kotlin
+- Desenvolvimento Web com **HTML**, **CSS** e **JavaScript**
+- Programação Java
+
+📚 Sempre em busca de novos conhecimentos e desafios para crescer como desenvolvedor.
+
+🚀 Meu objetivo é construir projetos legais, contribuir com a comunidade e me tornar um profissional completo na área de software.
+
+🤝 Aberto a colaborações e troca de experiências!
+
+---
+
+📫 Como me encontrar:
+[Seu e-mail aqui] | [LinkedIn ou outras redes/projetos, se quiser adicionar]
+
