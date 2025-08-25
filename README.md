@@ -7,7 +7,7 @@ Atualmente sou estudante de Engenharia de Software, apaixonado por tecnologia e 
 ### 🛠️ Language & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,springboot,sql,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,html,css,git" />
 </div>
 
 ##
