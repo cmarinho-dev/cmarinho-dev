@@ -17,5 +17,5 @@
 ---
 
 📫 Como me encontrar: <br>
-Email [cmarinho.dev@gmail.com]() | [LinkedIn ou outras redes/projetos, se quiser adicionar]
+Email [cmarinho.dev@gmail.com]() |  Linkedin [Carlos Marinho](https://www.linkedin.com/in/carlos-marinho-dev)
 
