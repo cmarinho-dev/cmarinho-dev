@@ -12,14 +12,15 @@
   </a>
 </div>
 
-###
+<br><br><br>
 
+### 🧑‍🦱 Sobre Mim
 Sou um apaixonado por tecnologia que está sempre buscando aperfeiçoar-se. <br>
 Estou cursando Engenharia de Software, mas já tenho formação como Técnico em Informática. <br>
 Já possuo conhecimento de Kotlin, Java e desenvolvimento web com HTML, CSS e Javascript. <br>
 Atualmente, estou me concentrando em estudar Java com o framework Spring Boot.
 
-###
+##
 
 ### 🛠️ Linguagens & Ferramentas
 
@@ -27,7 +28,7 @@ Atualmente, estou me concentrando em estudar Java com o framework Spring Boot.
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,kotlin,python,html,css,git" />
 </div>
 
-###
+##
 
 [![CMarinho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=true&locale=pt-br&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-dark-mode-only)
 [![CMarinho's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=true&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-light-mode-only)
@@ -36,7 +37,7 @@ Atualmente, estou me concentrando em estudar Java com o framework Spring Boot.
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cmarinho-dev\&repo=my-first-web-api\&theme=tokyonight\&locale=pt-br)
 
-###
+##
 
 ### 💬 Social Media
 
