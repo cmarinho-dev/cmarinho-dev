@@ -1,12 +1,12 @@
-## 👋 Hello! I'm Carlos Marinho
-
-I'm majoring in software engineering, but I already have a degree in IT. <br>
-I already have knowledge of Kotlin, Java, and web development with HTML, CSS, and Javascript. <br>
-I'm currently focusing on studying Java with the Spring Boot framework.
+## 👋 Olá! Sou Carlos Marinho.
+Sou um apaixonado por tecnologia que está sempre está buscando aperfeiçoar-se. <br>
+Estou cursando Engenharia de Software, mas já sou formado em TI. <br>
+Já possuo conhecimento de Kotlin, Java e desenvolvimento web com HTML, CSS e Javascript. <br>
+Atualmente, estou me concentrando em estudar Java com o framework Spring Boot.
 
 ##
 
-### 🛠️ Language & Tools
+### 🛠️ Linguagens & Ferramentas
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,kotlin,python,html,css,git" />
