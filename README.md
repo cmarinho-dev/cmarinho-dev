@@ -1,6 +1,6 @@
 ## 👋 Olá! Sou Carlos Marinho.
 Sou um apaixonado por tecnologia que está sempre buscando aperfeiçoar-se. <br>
-Estou cursando Engenharia de Software, mas já sou formado em TI. <br>
+Estou cursando Engenharia de Software, mas já tenho formação como Técnico em Informática. <br>
 Já possuo conhecimento de Kotlin, Java e desenvolvimento web com HTML, CSS e Javascript. <br>
 Atualmente, estou me concentrando em estudar Java com o framework Spring Boot.
 
