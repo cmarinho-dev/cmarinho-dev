@@ -19,7 +19,8 @@ I'm currently focusing on studying Java with the Spring Boot framework.
 [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=true&locale=pt-br&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-dark-mode-only)
 [![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=true&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-light-mode-only)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cmarinho-dev\&repo=springboot-weather-webapp\&theme=tokyonight\&locale=pt-br)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cmarinho-dev\&repo=my-first-web-api\&theme=tokyonight\&locale=pt-br)
+
 ##
 
 ### 💬 Social Media
