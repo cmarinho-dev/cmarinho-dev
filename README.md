@@ -13,8 +13,7 @@ I'm currently focusing on studying Java with the Spring Boot framework.
 </div>
 
 ##
-  
-</div>
+
 [![CMarinho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-dark-mode-only)
 [![CMarinho's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-light-mode-only)
 [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-dark-mode-only)
