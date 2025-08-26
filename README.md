@@ -25,7 +25,7 @@ Atualmente, estou me concentrando em estudar Java com o framework Spring Boot.
 ### 🛠️ Linguagens & Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,kotlin,python,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,kotlin,flutter,gcp,python,html,css,bootstrap,git" />
 </div>
 
 ##
