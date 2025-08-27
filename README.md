@@ -41,8 +41,7 @@ Atualmente, estou me concentrando em estudar Java com o framework Spring Boot.
 
 ### 📌 Projetos em Destaque
 
-[![CMarinho's Top Repository-Dark](https://github-readme-stats.vercel.app/api/pin?username=cmarinho-dev\&repo=my-first-web-api\&theme=tokyonight\&locale=pt-br\&hide_border=true#gh-dark-mode-only)](https://github.com/cmarinho-dev/my-first-web-api)]
-[![CMarinho's Top Repository-Light](https://github-readme-stats.vercel.app/api/pin?username=cmarinho-dev\&repo=my-first-web-api\&theme=default\&locale=pt-br\&hide_border=true#gh-light-mode-only)](https://github.com/cmarinho-dev/my-first-web-api)]
+[![CMarinho's Top Repository-Dark](https://github-readme-stats.vercel.app/api/pin?username=cmarinho-dev\&repo=my-first-web-api\&locale=pt-br\&hide_border=true\&theme=tokyonight)](https://github.com/cmarinho-dev/my-first-web-api)
 
 ##
 
