@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<br><br><br>
+<br><br>
 
 ### 🧑‍🦱 Sobre Mim
 Sou um apaixonado por tecnologia que está sempre buscando aperfeiçoar-se. <br>
@@ -30,12 +30,19 @@ Atualmente, estou me concentrando em estudar Java com o framework Spring Boot.
 
 ##
 
+### 📊 Métricas do GitHub
+
 [![CMarinho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=true&locale=pt-br&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-dark-mode-only)
 [![CMarinho's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=true&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-light-mode-only)
 [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=true&locale=pt-br&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-dark-mode-only)
 [![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=true&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-light-mode-only)
 
-[![CMarinho's Top Repository](https://github-readme-stats.vercel.app/api/pin?username=cmarinho-dev\&repo=my-first-web-api\&theme=tokyonight\&locale=pt-br)](https://github.com/cmarinho-dev/my-first-web-api)]
+##
+
+### 📌 Projetos em Destaque
+
+[![CMarinho's Top Repository-Dark](https://github-readme-stats.vercel.app/api/pin?username=cmarinho-dev\&repo=my-first-web-api\&theme=tokyonight\&locale=pt-br\&hide_border=true#gh-dark-mode-only)](https://github.com/cmarinho-dev/my-first-web-api)]
+[![CMarinho's Top Repository-Light](https://github-readme-stats.vercel.app/api/pin?username=cmarinho-dev\&repo=my-first-web-api\&theme=default\&locale=pt-br\&hide_border=true#gh-light-mode-only)](https://github.com/cmarinho-dev/my-first-web-api)]
 
 ##
 
