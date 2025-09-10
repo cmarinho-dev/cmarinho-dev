@@ -33,9 +33,9 @@ Atualmente, estou me concentrando em estudar Java com o framework Spring Boot.
 ### 📊 Métricas do GitHub
 
 [![CMarinho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=true&locale=pt-br&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-dark-mode-only)
-[![CMarinho's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=true&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-light-mode-only)
+[![CMarinho's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=false&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-light-mode-only)
 [![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=true&locale=pt-br&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-dark-mode-only)
-[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=true&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-light-mode-only)
+[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=false&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-light-mode-only)
 
 ##
 
