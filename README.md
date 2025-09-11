@@ -24,18 +24,18 @@ Atualmente, estou me concentrando em estudar Java com o framework Spring Boot.
 
 ### 🛠️ Linguagens & Ferramentas
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,kotlin,flutter,gcp,python,html,css,bootstrap,git" />
-</div>
+
+[![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,kotlin,flutter,gcp,python,html,css,bootstrap,git&theme=dark)](https://github.com/cmarinho-dev/#gh-dark-mode-only)
+[![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,kotlin,flutter,gcp,python,html,css,bootstrap,git&theme=light)](https://github.com/cmarinho-dev/#gh-light-mode-only)
 
 ##
 
 ### 📊 Métricas do GitHub
 
-[![CMarinho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=true&locale=pt-br&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-dark-mode-only)
-[![CMarinho's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=false&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-light-mode-only)
-[![CMarinho's Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=true&locale=pt-br&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-dark-mode-only)
-[![CMarinho's Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=false&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/github-readme-stats#gh-light-mode-only)
+[![CMarinho's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=true&locale=pt-br&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/#gh-dark-mode-only)
+[![CMarinho's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cmarinho-dev&show_icons=true&hide_border=false&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/#gh-light-mode-only)
+[![CMarinho's Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=true&locale=pt-br&theme=tokyonight#gh-dark-mode-only)](https://github.com/cmarinho-dev/#gh-dark-mode-only)
+[![CMarinho's Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=cmarinho-dev&layout=compact&hide_border=false&locale=pt-br&theme=default#gh-light-mode-only)](https://github.com/cmarinho-dev/#gh-light-mode-only)
 
 ##
 
