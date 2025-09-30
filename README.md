@@ -15,13 +15,13 @@
 <br><br>
 
 ### 🧑‍🦱 Sobre Mim
-Desde os 16 anos me dedico à programação. Meu interesse surgiu cedo, pela afinidade com computação e matemática, e desde então venho desenvolvendo projetos em Java, Kotlin e Python. Minha experiência principal está em projetos web com PHP, Java com Spring e Kotlin para Android.<br>
+Desde os 16 anos me dedico à programação. Meu interesse surgiu cedo pela afinidade com computação e matemática, o que me levou a explorar diferentes linguagens e frameworks ao longo da minha trajetória. Desde então, venho ampliando minhas habilidades com foco em desenvolvimento web, mobile e back-end, sempre buscando aprender novas tecnologias e aplicar boas práticas na criação de projetos que unem funcionalidade, organização e impacto real.
 
-💡 Focado em criar soluções funcionais, bem estruturadas e de impacto real.
-
-🛠 **Tech Stack Principal:** Java,Spring, Typescript, Angular e Bootstrap
+🛠 **Tech Stack Principal:** Java, Spring, Typescript, Angular e Bootstrap
 
 🧩 **Também atuo com:** Kotlin, Android, Firebase, Python, PHP e MySQL
+
+💡 Focado em criar soluções funcionais, bem estruturadas e de impacto real.
 
 📚 Em constante aprendizado para melhorar minhas habilidades técnicas.
 
