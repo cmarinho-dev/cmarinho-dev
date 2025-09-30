@@ -15,10 +15,17 @@
 <br><br>
 
 ### 🧑‍🦱 Sobre Mim
-Sou um apaixonado por tecnologia que está sempre buscando aperfeiçoar-se. <br>
-Estou cursando Engenharia de Software, mas já tenho formação como Técnico em Informática. <br>
-Já possuo conhecimento de Kotlin, Java e desenvolvimento web com HTML, CSS e Javascript. <br>
-Atualmente, estou me concentrando em estudar Java com o framework Spring Boot.
+Desde os 16 anos me dedico à programação. Meu interesse surgiu cedo, pela afinidade com computação e matemática, e desde então venho desenvolvendo projetos em Java, Kotlin e Python. Minha experiência principal está em projetos web com PHP, Java com Spring e Kotlin para Android.<br>
+
+💡 Focado em criar soluções funcionais, bem estruturadas e de impacto real.
+
+🛠 **Tech Stack Principal:** Java,Spring, Typescript, Angular e Bootstrap
+
+🧩 **Também atuo com:** Kotlin, Android, Firebase, Python, PHP e MySQL
+
+📚 Em constante aprendizado para melhorar minhas habilidades técnicas.
+
+🪂 Aberto a novos desafios e colaborações na área de tecnologia.
 
 ##
 
