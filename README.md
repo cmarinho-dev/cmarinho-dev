@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">&lt; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Olá! Sou Carlos Marinho /&gt;</h2>
+<h2 align="center">&lt; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Olá! Sou Carlos Marinho. /&gt;</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 <br><br>
 
-### 🧑‍🦱 Sobre Mim
+### 🧑‍💻 Sobre Mim
 Desde os 16 anos me dedico à programação. Meu interesse surgiu cedo pela afinidade com computação e matemática, o que me levou a explorar diferentes linguagens e frameworks ao longo da minha trajetória. Desde então, venho ampliando minhas habilidades com foco em desenvolvimento web, mobile e back-end, sempre buscando aprender novas tecnologias e aplicar boas práticas na criação de projetos que unem funcionalidade, organização e impacto real.
 
 🛠 **Tech Stack Principal:** Java, Spring, Typescript, Angular e Bootstrap
