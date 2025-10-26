@@ -19,7 +19,7 @@ Desde os 16 anos me dedico à programação. Meu interesse surgiu cedo pela afin
 
 🛠 **Tech Stack Principal:** Python, Java, React, Typescript e Tailwind
 
-🧩 **Também atuo com:** Mobile (Kotlin/Java), PHP, MySQL e Firebase
+🧩 **Também atuo com:** Mobile [Kotlin/Java], PHP, MySQL e Firebase
 
 💡 Focado em criar soluções funcionais, bem estruturadas e de impacto real.
 
