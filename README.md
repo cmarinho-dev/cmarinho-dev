@@ -34,8 +34,8 @@ Desde os 16 anos me dedico à programação. Meu interesse surgiu cedo pela afin
 ### 🛠️ Linguagens & Ferramentas
 
 
-[![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,kotlin,flutter,gcp,python,html,css,bootstrap,git&theme=dark)](https://github.com/cmarinho-dev/#gh-dark-mode-only)
-[![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,kotlin,flutter,gcp,python,html,css,bootstrap,git&theme=light)](https://github.com/cmarinho-dev/#gh-light-mode-only)
+[![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,kotlin,gcp,python,html,css,git&theme=dark)](https://github.com/cmarinho-dev/#gh-dark-mode-only)
+[![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,kotlin,gcp,python,html,css,git&theme=light)](https://github.com/cmarinho-dev/#gh-light-mode-only)
 
 ##
 
