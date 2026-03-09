@@ -37,6 +37,7 @@ Desde os 16 anos me dedico à programação. Meu interesse surgiu cedo pela afin
 [![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,kotlin,gcp,python,html,css,git&theme=dark)](https://github.com/cmarinho-dev/#gh-dark-mode-only)
 [![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,kotlin,gcp,python,html,css,git&theme=light)](https://github.com/cmarinho-dev/#gh-light-mode-only)
 
+<!--
 ##
 
 ### 📊 Métricas do GitHub
@@ -52,6 +53,8 @@ Desde os 16 anos me dedico à programação. Meu interesse surgiu cedo pela afin
 
 [![CMarinho's Top Repository-Dark](https://github-readme-stats.vercel.app/api/pin/?username=cmarinho-dev&repo=web-login-form&locale=pt-br&hide_border=true&show_owner=true&theme=tokyonight)](https://github.com/cmarinho-dev/web-login-form#gh-dark-mode-only)
 [![CMarinho's Top Repository-Light](https://github-readme-stats.vercel.app/api/pin/?username=cmarinho-dev&repo=web-login-form&locale=pt-br&hide_border=false&show_owner=true&theme=default)](https://github.com/cmarinho-dev/web-login-form#gh-light-mode-only)
+
+-->
 
 ##
 
