@@ -27,7 +27,7 @@ Desde os 16 anos me dedico à programação. Meu interesse surgiu cedo pela afin
 
 🪂 Aberto a novos desafios e colaborações na área de tecnologia.
 
-🚀 Portfólio: [cmarinho-portfolio](https://cmarinho-portfolio.vercel.app)
+🚀 Portfólio: [cmarinho-portfolio](https://www.cmarinho.engineer)
 
 ##
 
