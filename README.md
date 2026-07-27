@@ -22,7 +22,7 @@ Programo desde os 16 anos, com foco em desenvolvimento web, mobile e back-end. G
 
 🧩 **Também atuo com:** Mobile (Kotlin/Java), PHP, MySQL/PostgreSQL e Firebase
 
-🚀 Portfólio: [cmarinho-portfolio](https://www.cmarinho.engineer)
+🚀 Portfólio: <a target="_blank" href="https://www.cmarinho.engineer">cmarinho-portfolio</a>
 
 ##
 
