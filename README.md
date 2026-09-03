@@ -18,7 +18,7 @@
 
 Programo desde os 16 anos, com foco em desenvolvimento web, mobile e back-end. Gosto de transformar problemas reais em soluções funcionais, bem estruturadas e fáceis de manter.
 
-🛠 **Tech Stack Principal:** Java (Spring Boot), Python, TypeScript/JavaScript, React, Angular e Next.js
+🛠 **Tech Stack Principal:** Java (Spring Boot), TypeScript/JavaScript, Angular e Next.js
 
 🧩 **Também atuo com:** Mobile (Kotlin/Java), PHP, MySQL/PostgreSQL e Firebase
 
@@ -28,8 +28,8 @@ Programo desde os 16 anos, com foco em desenvolvimento web, mobile e back-end. G
 
 ### 🛠️ Linguagens & Ferramentas
 
-[![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,js,react,angular,nextjs,nodejs,mysql,postgres,docker,git&theme=dark)](https://github.com/cmarinho-dev/#gh-dark-mode-only)
-[![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,js,react,angular,nextjs,nodejs,mysql,postgres,docker,git&theme=light)](https://github.com/cmarinho-dev/#gh-light-mode-only)
+[![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,python,django,ts,js,react,angular,nextjs,nodejs,mysql,postgres,docker,git&theme=dark)](https://github.com/cmarinho-dev/#gh-dark-mode-only)
+[![CMarinho's Skills](https://skillicons.dev/icons?i=java,spring,python,django,ts,js,react,angular,nextjs,mysql,postgres,docker,git&theme=light)](https://github.com/cmarinho-dev/#gh-light-mode-only)
 
 ##
 
